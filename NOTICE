@@ -1,17 +1,17 @@
-Phorge
+Phabricator
 Copyright 2014 Phacility, Inc.
 
-Phorge was originally developed and maintained by Phacility, Inc.
+Phabricator was originally developed and maintained by Phacility, Inc.
 
   http://www.phacility.com/
 
 Portions of this software were developed by various contributors, who retain
 copyright on their work. These works are licensed to Phacility, Inc.
 
-Phorge is available under the Apache 2.0 license. See LICENSE for more
+Phabricator is available under the Apache 2.0 license. See LICENSE for more
 information.
 
-Phorge and Phacility are trademarks of Phacility, Inc. For additional
+Phabricator and Phacility are trademarks of Phacility, Inc. For additional
 information about trademarks that pertain to this software, see:
 
   http://www.phacility.com/trademarks/
